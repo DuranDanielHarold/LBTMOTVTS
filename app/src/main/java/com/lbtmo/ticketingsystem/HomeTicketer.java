@@ -572,6 +572,7 @@ public class HomeTicketer extends AppCompatActivity {
         // Refresh the chart
         barChart.invalidate();
     }
+    //dasdads
 
     private void createDoughnutChart(String violationType, int count) {
         ArrayList<PieEntry> entries = new ArrayList<>();
