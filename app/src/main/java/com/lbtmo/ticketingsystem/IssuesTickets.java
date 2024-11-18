@@ -453,7 +453,8 @@ public class IssuesTickets extends AppCompatActivity {
                 text.matches("^\\d{5}\\s?[A-Z]{2}$")||
                 text.matches("^\\d{4}\\s?[A-Z]{2}$")||
                 text.matches("^[A-Z]{2}\\s?\\d{4}$")||
-                text.matches("^[A-Z]\\s?\\d{3}\\s?[A-Z]{2}$");
+                text.matches("^[A-Z]\\s?\\d{3}\\s?[A-Z]{2}$")||
+                text.matches("^\\d{4}-\\d{7}$");
     }
 
     private void fetchViolation() {

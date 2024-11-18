@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Add Email"
+            android:text="Edit Email"
             android:textSize="18sp"
             android:layout_marginBottom="16dp"/>
 
@@ -68,7 +68,7 @@
             android:id="@+id/buttonAddEmail"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Add Email"
+            android:text="Edit Email"
             android:layout_marginTop="16dp"
             android:backgroundTint="@color/navy_blue"
             android:fontFamily="@font/poppinsbold"

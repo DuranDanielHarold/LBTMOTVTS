@@ -250,11 +250,8 @@
                             android:textSize="13sp"
                             android:layout_columnWeight="1"
                             android:fontFamily="@font/poppinsbold"
-                            android:textColor="@color/black"/>
-
-
-
-
+                            android:textColor="@color/black"
+                            android:layout_columnSpan="2"/>
                     </GridLayout>
 
                 </androidx.cardview.widget.CardView>
